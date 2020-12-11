@@ -1,0 +1,64 @@
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.hero {
+    background-size: cover;
+    background-position: bottom;
+    position: relative;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.page-title {
+    color: #fce138;
+}
+.page-title h2 {
+    display: inline-block;
+    border-bottom: 4px solid;
+    color: #fce138;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+.secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px 0;
+}
+.p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 20px;
+}
+.secondary-content {
+    width: 80%;
+    margin: 0 auto;
+    color: #024e76;
+}
+.body {
+    color: #024e76;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secondary-content h3 {
+    font-size: 25px;
+    margin: 20px 0;
+}
+.page-title h3 {
+    font-size: 25px;
+    margin: 20px;
+}
+.ul {
+    margin: 15px 20px;
+}
+.li {
+    color: #024e76;
+    margin: 10px;
+}
+.secondary-content h3 {
+    font-size: 25px;
+    margin: 20px;
+}
