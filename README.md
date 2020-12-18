@@ -21,7 +21,7 @@ A webiste that offers fitness training services
 *CSS
 
 ## Website
-https://lernantiono.github.io/run-buddy/
+https://evanteems.github.io/run-buddy/
 
 ## Contribution
 Made with <3 by [Evan]
